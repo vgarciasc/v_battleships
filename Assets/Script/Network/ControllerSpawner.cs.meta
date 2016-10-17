@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67b6634d7264eed4d9f8d1770095bc01
+timeCreated: 1473380146
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - serverController: {fileID: 1000012186910566, guid: 1d7bfaa524964974794e923dc00c8898,
+      type: 2}
+  - msgTower: {fileID: 1000013271529310, guid: bce327fc7d2ede748b38df7e03efb2a8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
